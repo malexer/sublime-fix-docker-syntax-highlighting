@@ -4,6 +4,7 @@ import sublime_plugin
 
 class DockerfileSyntax:
 
+    # https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting
     SYNTAX_FILE = 'Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax'
 
     @staticmethod
@@ -13,6 +14,7 @@ class DockerfileSyntax:
 
 class NginxSyntax:
 
+    # https://packagecontrol.io/packages/nginx
     SYNTAX_FILE = 'Packages/nginx/Syntaxes/nginx.sublime-syntax'
 
     @staticmethod
